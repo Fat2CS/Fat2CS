@@ -7,9 +7,9 @@
 
     
 <h1 align="center">Hi 👋, I'm Fatou</h1>
-<h3 align="center">Passionnée de marketing digitale, lors de ma reconversion apprendre le développement web est devenu une évidence !
-  Que ce soit une application mobile ou un site web, je souhaite continuer à apprendre sur mon nouveau métier auprés de vous peut-être ? 
-Front ou Back je ne veux pas choisir, Developper Fullstack je souhaite devenir !!! </h3>
+<h3 align="center">Challengée par les possibilités du marketing digital, et suite à ma reconversion, apprendre le développement web est devenu une évidence !
+  Que ce soit pour des applications mobiles ou pour des sites web, il me faut continuer à apprendre afin de devenir plus efficace dans mon nouveau métier...auprès de vous peut-être ? 
+Front ou Back je ne veux pas choisir, Developpeuse Fullstack je souhaite devenir !!! </h3>
 
 
 
