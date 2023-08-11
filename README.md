@@ -20,7 +20,7 @@ Front ou Back je ne veux pas choisir, Developpeuse Fullstack je souhaite devenir
 
 - 🔭 I’m currently working on [Defilady](https://defilady.netlify.app/)
 
-- 🌱 I’m currently learning **React js, React Native**
+- 🌱 I’m currently learning **React js, React Native, Next.js, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fat2CS?tab=repositories](https://github.com/Fat2CS?tab=repositories)
 
