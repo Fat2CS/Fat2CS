@@ -2,14 +2,15 @@
 
 
 <p align="center">
- <img align="center" height= 350px width=85% src="https://zupimages.net/up/22/27/ux60.gif" alt="" /></a> 
+ <img align="center" height= 350px width=85%  src="https://zupimages.net/up/23/32/rf26.gif"
+   alt="" /></a> 
 </p>
 
     
 <h1 align="center">Hi 👋, I'm Fatou</h1>
-<h3 align="center">Challengée par les possibilités du marketing digital, et suite à ma reconversion, apprendre le développement web est devenu une évidence !
-  Que ce soit pour des applications mobiles ou pour des sites web, il me faut continuer à apprendre afin de devenir plus efficace dans mon nouveau métier...auprès de vous peut-être ? 
-Front ou Back je ne veux pas choisir, Developpeuse Fullstack je souhaite devenir !!! </h3>
+<h3 align="center">Challenged by the possibilities of digital marketing, and following my retraining, learning web development became obvious!
+  Whether for mobile applications or websites, I must continue to learn in order to become more efficient in my new job...with you perhaps?
+Front or Back I don't want to choose, Fullstack Developer I am!!! </h3>
 
 
 
