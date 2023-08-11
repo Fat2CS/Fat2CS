@@ -36,10 +36,6 @@ Last update on Fri Aug 11 2023
 **143 day before 2024 ⏱** days before new years
 
 🤖 This README.md is updated with cruelty, by Gabot ❤️
-Added the `Mon 3 Jan 2022`
 
-Last update on Thu Aug 10 2023
 
-**144 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by Gabot ❤️
