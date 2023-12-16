@@ -40,8 +40,8 @@ Front or Back I don't want to choose, Fullstack Developer I am!!! </h3>
 
 Added the `Fri 3 Aug 2023`
 
-Last update on Fri Dec 15 2023
+Last update on Sat Dec 16 2023
 
-**17 day before 2024 ⏱** days before new years
+**16 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with cruelty, by Gabot ❤️
+🤖 This README.md is updated with horror, by Gabot ❤️
