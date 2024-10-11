@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img align="center" height= 350px width=85%  src=""
+ <img align="center" height= 350px width=85%  src="https://zupimages.net/up/23/32/rf26.gif"
    alt="" /></a> 
 </p>
 
@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Fatou</h1>
 <h3 align="center">Challenged by the possibilities of digital marketing, and following my retraining, learning web development became obvious!
   Whether for mobile applications or websites, I must continue to learn in order to become more efficient in my new job...with you perhaps?
-Front or Back I don't want to choose, Frontend Developer I am!!! </h3>
+Front or Back I don't want to choose, Fullstack Developer I am!!! </h3>
 
 
 
